@@ -49,6 +49,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Narges Monzavi :purple_heart:](https://github.com/NargesMonzavi)
 - [Erfan Nikan](https://github.com/erfannikan).
 - [Khalid Samim 👨🏻‍💻😅](https://github.com/itkhld1)
+- [fsociety🔇💻](https://github.com/fsocietyCodeMaster)
 - [Amirabbasjadidi🐼😃](https://github.com/Amirabbasjadidi/)
 - [EnAnsari 🚀⚡](https://github.com/EnAnsari)
 - [AlirezaNjR](https://github.com/AlirezaNjR/)
